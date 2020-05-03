@@ -1,0 +1,96 @@
+{
+  "streams": [
+    {
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/logos/radio1.png",
+      "name": "Radio 1",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/radio1-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/2020/04/08/b1c35b45-7961-11ea-aae0-02b7b76bf47f.png",
+      "name": "Radio 1 Classics",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/radio1_classics_high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/logo/radio2/RADIO2_RED_RGB.png",
+      "name": "Radio 2",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/ra2ovl-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/logos/klara.png",
+      "name": "Klara",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/klara-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/logos/klara_continuo.png",
+      "name": "Klara Continuo",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/klaracontinuo-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/orig/2019/03/12/1e383cf5-44a7-11e9-abcc-02b7b76bf47f.png",
+      "name": "Studio Brussel",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/stubru-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/2019/02/21/923b0fe2-35ce-11e9-abcc-02b7b76bf47f.png",
+      "name": "StuBru De Tijdloze",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/2020/04/02/53dad354-74af-11ea-aae0-02b7b76bf47f.png",
+      "name": "StuBru #ikluisterbelgisch",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/stubru_tgs-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/logo/mnm/logo_witte_achtergrond.png",
+      "name": "MNM",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/mnm-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/2019/02/21/76e54cd8-35f1-11e9-abcc-02b7b76bf47f.png",
+      "name": "MNM Back to the 90's & 00's",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/mnm_90s00s-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/orig/logo/mnm/mnm_hits_logo_2018.png",
+      "name": "MNM Hits",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/mnm_hits-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/logo/mnm_urbanice_logo.png",
+      "name": "MNM UrbaNice",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/mnm_urb-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/logo/ketnet/ketnet_hits_rgb.png",
+      "name": "Ketnet Hits",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/ketnetradio-high.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/height100/logos/vrtnws.png",
+      "name": "VRT NWS",
+      "radio": true,
+      "stream": "https://progressive-audio.lwc.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3"
+    },{
+      "group": "VRT Radio",
+      "logo": "https://images.vrt.be/orig/logo/vrt.png",
+      "name": "VRT Events",
+      "radio": true,
+      "stream": "http://icecast.vrtcdn.be/vrtevent-high.mp3"
+    }
+  ],
+  "version": 1
+}
