@@ -2,8 +2,4 @@
 <settings>
   <setting id="iptv.enabled" default="true" visible="false"/>
   <setting id="iptv.channels_uri" default="plugin://plugin.audio.vrt.radio/iptv/channels?port=$PORT" visible="false"/>
-  <category id="radio" label="30100">
-    <setting id="stream_selection" type="select" label="30110" lvalues="30111|30112|30113|30114|30115" default="1"/>
-    <setting id="radio2_flavor" type="select" label="30120" lvalues="30121|30122|30123|30124|30125" default="1"/>
-  </category>
 </settings>
